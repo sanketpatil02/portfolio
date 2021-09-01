@@ -148,6 +148,10 @@ hr {
     border-top-right-radius: 1rem;
     color: white;
     text-align: center;
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
 }
 
 .footer .footer-header {
