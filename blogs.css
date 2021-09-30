@@ -48,6 +48,9 @@ hr {
     background-color: #000;
     border: 3px solid var(--primary-color);
     border-radius: 0.5rem;
+    margin: 5rem;
+
+    /* margin-top: 5rem; */
     /* padding: 0.3rem 0; */
 }
 
@@ -55,12 +58,12 @@ hr {
     background-color: var(--primary-color);
     color: white;
 }
-
+/* 
 .link-secondary {
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
-}
+} */
 
 .link-active {
     font-weight: bold;
@@ -75,6 +78,10 @@ hr {
 .list-for-itemInline {
     display: inline;
     /* padding: 0rem 0rem; */
+}
+
+ul li p{
+    margin-bottom: 2rem;
 }
 
 /* navigation */
